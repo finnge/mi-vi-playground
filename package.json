@@ -1,0 +1,25 @@
+{
+  "name": "vi-playground",
+  "version": "1.0.0",
+  "description": "Playground for Vis with D3.JS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "web-dev-server --node-resolve --watch --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finnge/mi-vi-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finnge/mi-vi-playground/issues"
+  },
+  "homepage": "https://github.com/finnge/mi-vi-playground#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.1.31"
+  },
+  "dependencies": {
+    "d3": "^7.4.4"
+  }
+}
